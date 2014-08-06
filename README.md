@@ -1,2 +1,2 @@
-task-master
+node-config
 ===========
